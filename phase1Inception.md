@@ -43,7 +43,10 @@ Then remove this instructions comment. -->
 1. I must feel Competent-- that I know what I am doing.
 2. I must feel Connection to other students, and that the work is relevant to my plans and interests.
 3. I must have some/a lot of Control over what I accomplish in the course-- to feel that I control my own destiny.
-4. I must achieve a grade of at least  <!--?--> .
+4. I must achieve a grade of at least a B+.
+5. I must feel as though i have enough knowledge in the program I am studying.
+6. I must show prowess in this field.
+7. I must know that I have given all that I can towards acheiving these win conditions.<!--?--> .
 
  <!-- Add subsections for each additional success-critical stakeholder, listing their win conditions. (Usually there are none.)
 .
